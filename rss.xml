@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[David Paul Carter]]></title>
+        <description><![CDATA[David Paul Carter]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 20 Jun 2016 18:24:06 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>NO. A simple word, but hard to say and act upon. Yet it is a key to our focus and ultimately to our success. Steve Jobs advised his many followers “Say no to a thousand things.” What are you saying “no” to?</p>]]></description>
+            <link>undefinedno-a-simple-word-but-hard-to-say-and-act-upon-yet-it-is-a/index.html</link>
+            <guid isPermaLink="false">3706ab66-c2be-47af-b69a-4ff76d9864ec</guid>
+            <pubDate>Mon, 20 Jun 2016 18:23:19 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
