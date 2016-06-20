@@ -1,0 +1,28 @@
+name: David Paul Carter
+favicon: null
+layout_spectrum: 0.3000878484454006
+typography_spectrum: 0.5255126638803631
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.8013330160174519
+  lightness: 0.13468142552301288
+  saturation: 0.3939905606675893
+  rhythmicContrast: 0.5313255256041884
+purpose: []
